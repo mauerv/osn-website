@@ -9,6 +9,10 @@
     "start-dev": "webpack-dev-server",
     "build": "webpack"
   },
+  "engines": {
+    "node": "12.5.x",
+    "npm": "6.9.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/open-science-network/open-science-network.github.io.git"
