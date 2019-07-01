@@ -2,11 +2,8 @@ const express = require('express')
 const app = express()
 const subdomain = require('express-subdomain')
 const bodyParser = require('body-parser')
-const sslRedirect = require('heroku-ssl-redirect')
 
 const router = express.Router()
-
-app.use(sslRedirect())
 
 router.get('/', function(req, res) {
   let path = __dirname + '/token.html'

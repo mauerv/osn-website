@@ -27,7 +27,6 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "express-subdomain": "^1.0.5",
-    "heroku-ssl-redirect": "0.0.4",
     "jquery": "^3.2.1"
   },
   "devDependencies": {
