@@ -25,7 +25,7 @@
   "homepage": "https://github.com/open-science-network/open-science-network.github.io#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "jquery": "^3.2.1"
   },
   "devDependencies": {
